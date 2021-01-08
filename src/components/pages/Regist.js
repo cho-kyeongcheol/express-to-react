@@ -116,7 +116,4 @@ const Regist = () => {
 
 }
 
-export default {   
-    Regist, 
-    createIssue,
-};
+export default Regist;
