@@ -1,0 +1,57 @@
+.debug {
+  border: solid 1px red;
+}
+
+.box {
+  border: solid 2px black;
+}
+
+.w-100p {
+  width: 100%
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.w100 {
+  width: 100%;
+  max-width: 100%;
+}
+
+.input {
+  width: 300px;
+}
+.regist-box {
+  padding: 30px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  border-radius: 8px;
+  border: solid 1px #c7c7c7;
+}
+
+.todo_list {
+  margin-left: 10px;
+}
+
+
+
+
+.title {
+  font-weight: bold;
+  margin-top: 20px;
+}
